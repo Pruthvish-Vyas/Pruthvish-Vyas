@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Pruthvish Vyas!</h1>
+  <h1>👋 Hi, I'm Pruthvish!</h1>
 </div>
 
 I'm a **Data Science Learner** with a blend of technical and analytical skills and a strong drive to understand market dynamics and strategic growth.
